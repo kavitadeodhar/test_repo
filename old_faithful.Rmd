@@ -51,6 +51,7 @@ faithful %>%
     ylab("Waiting time to next eruption (in mins)") + 
     labs(title="Old Faithful Geyser")
 ```
+Testing.kd
 
 We see that the relationship between these two variables is fairly linear, 
 which suggests that we might use a linear model to predict the waiting 
